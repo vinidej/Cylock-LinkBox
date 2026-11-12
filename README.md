@@ -11,6 +11,8 @@ Atualmente, ferramentas, artigos, repositórios e outros materiais são frequent
 O projeto busca solucionar esse problema por meio de um dashboard web intuitivo, organizado por categorias e acessível em dispositivos desktop e mobile.
 
 > **Status:** Em planejamento — Engenharia de Requisitos e Prototipação UI/UX.
+> **Planejamento:**  https://docs.google.com/document/d/1JpInVcagVviTtT6VuQK4dI_wyvXRue3cUiEPve_H_c8/edit?usp=sharing
+
 
 ## 🎯 Objetivos
 
@@ -65,27 +67,14 @@ cylock-linkbox/
 │
 ├── README.md
 │
-├── docs/
-│   ├── requisitos/
-│   │   ├── requisitos-funcionais.md
-│   │   ├── requisitos-nao-funcionais.md
-│   │   └── regras-de-negocio.md
-│   │
-│   ├── ux/
-│   │   ├── arquitetura-informacao.md
-│   │   └── fluxos-navegacao.md
-│   │
-│   └── validacao/
-│       └── relatorio-testes.md
+├── Requisitos/
+│   └── requisitos.pdf
 │
-├── design/
-│   ├── wireframes/
-│   │   ├── desktop/
-│   │   └── mobile/
-│   │
-│   └── prototipos/
+├── Wireframe/
+│   ├── desktop/ ...
+│   └── mobile/ ...
 │
-└── apresentacao/
+└── Apresentacao/ ...
 ```
 
 > A estrutura representa uma sugestão de organização e será preenchida conforme a produção dos entregáveis.
