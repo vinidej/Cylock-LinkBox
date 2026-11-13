@@ -68,7 +68,7 @@ cylock-linkbox/
 ├── README.md
 │
 ├── Requisitos/
-│   └── Cylock_Trainee___Relatorio_de_Requisitos.pdf
+│   └── Relatorio de Requisitos.pdf
 │
 ├── Wireframe/
 │   ├── desktop/ ...
